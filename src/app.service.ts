@@ -7,6 +7,6 @@ export class AppService {
   }
 
   getHello2(): number {
-    return 23;
+    return 22;
   }
 }
